@@ -1,0 +1,2 @@
+# Fakeroot
+Fakeroot For Termux
